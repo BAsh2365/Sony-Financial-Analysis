@@ -9,7 +9,7 @@ import requests
 import matplotlib.pyplot as plt
 
 # API setup
-api_key = "EIrm3Cz8JMspOorv9szuAnzHQzKuWQev"
+api_key = "X"
 company = "Sony"
 years = 5
 
